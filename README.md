@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mt UE5 game<br>👯 I’m looking to collaborate on game creation<br>🤝 I’m looking for help with great people<br>💬 Ask me about my breakfast<br>⚡ Fun fact im 75 y.o)
+🔭 I’m currently working on my UE5 game<br>👯 I’m looking to collaborate on game creation<br>🤝 I’m looking for help with great people<br>💬 Ask me about my breakfast<br>⚡ Fun fact im 75 y.o)
 
 
 ## 🌐 Socials:
