@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keksik6065) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8bx1FOvk3PJCbAfrNVVHTg) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keksik6065) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@UC8bx1FOvk3PJCbAfrNVVHTg](https://www.youtube.com/channel/UC8bx1FOvk3PJCbAfrNVVHTg)) 
 
 # 💻 Tech Stack:
 Unreal Engine, Substance Painter and <br/> <br/>
